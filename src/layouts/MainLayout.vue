@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          ov š COV - protect
+          COV - protect
         </q-toolbar-title>
 
         <div>Quasar v<!-- {{ $q.version }} --></div>
